@@ -6,7 +6,8 @@ default if GNU Mailutils is installed.  When --with-mailutils is not
 
 in effect, the Emacs build procedure by default continues to build and
 install a limited 'sddg substitute that retrieves POP3 email only
-
+  
+  
 --with-mailutils or --without-pop when configuring.
 
 ** The new option 'configure --enable-gcc-warnings=warn-only' causes
